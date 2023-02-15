@@ -5,7 +5,7 @@
 }
 body{
     font-family: 'Lato', sans-serif;
-    /* background-color: #f6f7fb; */
+    background: linear-gradient(to right, rgba(248, 207, 214, 0.712), rgba(237, 152, 237, 0.749));
     height: 100vh;
     display: flex;
     align-items: center;
@@ -52,7 +52,7 @@ output{
     text-align: center;
     box-shadow: 0 0 2px 0 #555;
     border-radius: 3px;
-    /* left:calc(50% - 40px); */
+    background-color: #fff;
     top: -40px;
   }
 
